@@ -1,15 +1,13 @@
-[![MasterHead](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)]
+![MasterHead](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)
 <h1 align="center">Hi 👋, I'm Riya Khadka</h1>
-<h3 align="center">A passionate Web developer from New Delhi ,India</h3>
+<h3 align="center">A passionate developer from New Delhi ,India</h3>
 <img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-rk250902&label=Profile%20views&color=0e75b6&style=flat" alt="riya-rk250902" /> </p>
 
-- 🔭 I’m currently working on **node.js and javascript**
+- 💻 With a strong foundation in Data Analytics, Data science, Data engineering and Research , I enjoy exploring new technologies and staying up-to-date with industry trends. My GitHub repositories are a reflection of my journey and growth as a developer, showcasing projects that I am proud to share with the community.
 
-- 🌱 I’m currently learning **react.js**
-
-- 📫 How to reach me **nepriya25@gmail.com**
+- 📫 How to reach me **riyakhadka148@gmail.com**
 
 - ⚡ Fun fact **Kabhi funny Kabhi serious**
 
